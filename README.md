@@ -1,5 +1,5 @@
 <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
-<h2 data-start="107" data-end="148" class=""><strong data-start="110" data-end="148">📌 Project Overview: User Blog API</strong></h2>
+<h2 data-start="107" data-end="148" class=""><strong data-start="110" data-end="148">📌 User Blog API Overview</strong></h2>
 
 <p data-start="149" data-end="546" class="">This is a <strong data-start="159" data-end="174">backend API</strong> built using <strong data-start="187" data-end="202">.NET Core 8</strong> that provides authentication and blog article management. The API allows users to <strong data-start="308" data-end="355">register, log in, and manage their profiles</strong>, while also enabling them to <strong data-start="385" data-end="442">create, read, update, and delete (CRUD) blog articles</strong>. The authentication system is based on <strong data-start="482" data-end="506">JWT (JSON Web Token)</strong>, and <strong data-start="512" data-end="521">MySQL</strong> is used as the database.</p>
 
